@@ -16,3 +16,27 @@ Análisis estratégicos enfocados en FP&A y Operaciones.
 ### 3. Tendencias de Economía y Tráfico
 * **Objetivo:** Relacionar indicadores macroeconómicos con el tráfico de la plataforma.
 * **Tecnología:** Python (Pandas, Visualización).
+
+### 4. Telecom Analysis
+## Objective
+Analyze user behavior to identify segments, usage patterns, and improvement opportunities.
+
+## Datasets
+- users_latam.csv → user data (age, city, plan, churn)
+- usage.csv → activity data (calls and messages)
+
+## Analysis Steps
+1. Data cleaning  
+2. Exploratory analysis  
+3. Feature creation  
+4. Segmentation  
+5. Outlier detection  
+6. Insights and recommendations  
+
+## How to Run
+Open the notebook in Google Colab or Jupyter Notebook and run all cells.
+
+## Reproducibility
+1. Upload notebook and datasets  
+2. Install pandas, numpy, matplotlib  
+3. Run all cells  
